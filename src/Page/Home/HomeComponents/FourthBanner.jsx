@@ -9,8 +9,8 @@ const FourthBanner = () => {
         });
     };
     return (
-        <div className=" container mx-auto mt-10 py-20 inset-0 bg-cover bg-center bg-no-repeat rounded-xl" style={{ backgroundImage: "url('src/assets/banner-10.png')" }}>
-            <div className=' container mx-auto px-24'>
+        <div className=" flex justify-between items-center container mx-auto px-24 mt-10 inset-0 bg-cover bg-center bg-no-repeat rounded-xl" style={{ backgroundImage: "url('src/assets/banner-10.png')" }}>
+            <div>
                 <div>
                     <h1 className='text-[#253D4E] text-4xl font-bold w-140 pb-5'>Stay home & get your daily
                         needs from our shop</h1>
@@ -43,6 +43,10 @@ const FourthBanner = () => {
 
                 </div>
 
+
+            </div>
+            <div>
+                <img className='w-130' src="/src/assets/banner-13.png" alt="" />
             </div>
         </div>
     );
