@@ -5,7 +5,7 @@ const SecondBanner = () => {
         <>
         <div className='flex items-center gap-10 container mx-auto px-42 pt-10'>
             <div>
-                <img className='w-350' src="/src/assets/about-5.png" alt="" />
+                <img className='w-350' src="/assets/about-5.png" alt="" />
             </div>
             <div>
                 <h3 className='text-[#B6B6B6] text-3xl font-bold pb-8'>Our performance</h3>

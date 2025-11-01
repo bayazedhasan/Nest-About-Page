@@ -17,7 +17,7 @@ const SecondHeader = () => {
             </div>
             <div className='flex items-center gap-10 '>
                 <div className='flex items-center gap-1 transition-transform hover:scale-110 cursor-pointer'>
-                    <img src="src/assets/icon-hot.png" alt="" />
+                    <img src="/assets/icon-hot.png" alt="" />
                     <p>Deals</p>
                 </div>
                 <div className='flex items-center transition-transform hover:scale-110 cursor-pointer'>
@@ -48,7 +48,7 @@ const SecondHeader = () => {
                 <p className='transition-transform hover:scale-110 cursor-pointer'>Contact</p>
             </div>
             <div className='flex gap-2 items-center'>
-                <img src="/src/assets/icon-headphone.png" alt="" />
+                <img src="/assets/icon-headphone.png" alt="" />
                 <div>
                     <h2 className='text-[#3BB77E] font-bold text-2xl'>1900 - 888</h2>
                     <p className='text-gray-400 text-xs'>24/7 Support Center</p>

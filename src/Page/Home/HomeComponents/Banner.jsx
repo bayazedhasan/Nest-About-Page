@@ -6,7 +6,7 @@ const Banner = () => {
         <>
             <div className='flex items-center gap-10 container mx-auto px-42'>
                 <div className=''>
-                    <img className='w-400 rounded-lg' src="/src/assets/about-1.png" alt="" />
+                    <img className='w-400 rounded-lg' src="/assets/about-1.png" alt="" />
                 </div>
                 <div>
                     <h1 className='text-5xl font-bold text-[#253D4E]'>Welcome to Nest</h1>

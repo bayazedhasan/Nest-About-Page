@@ -7,7 +7,7 @@ const Header = () => {
 <>
         <div className='flex justify-between items-center container mx-auto px-6 p-5'>
 
-            <div><img className='w-46' src="src/assets/logo.png" alt="" /></div>
+            <div><img className='w-46' src="/assets/logo.png" alt="" /></div>
 
             <div className="w-170">
                 <div className="flex items-center border border-[#BCE3C9] rounded-md focus-within:border-blue-500 transition-colors p-1">
@@ -53,14 +53,14 @@ const Header = () => {
             <div className='flex gap-20 cursor-pointer'>
                 <div className="">
                     <div className="w-5 indicator flex gap-1 ">
-                        <img src="src/assets/icon-compare.png" alt="" />
+                        <img src="/assets/icon-compare.png" alt="" />
                         <h1 className='text-gray-400'>Compare</h1>
                         <span className="badge badge-xs bg-[#29A56C] indicator-item text-[#FFFFFF]">3</span>
                     </div>
                 </div>
                 <div className="">
                     <div className="w-5 indicator flex gap-1">
-                        <img src="src/assets/icon-heart.png" alt="" />
+                        <img src="/assets/icon-heart.png" alt="" />
                         <h1 className='text-gray-400'>Wishlist</h1>
                         <span className="badge badge-xs bg-[#29A56C] indicator-item text-[#FFFFFF]">6</span>
                     </div>
@@ -68,7 +68,7 @@ const Header = () => {
                 <div className="dropdown dropdown-end">
                     <div tabIndex={0} role="button" className="">
                         <div className="w-5 indicator flex gap-1 ">
-                            <img src="/src/assets/icon-cart.png" alt="" />
+                            <img src="/assets/icon-cart.png" alt="" />
                             <h1 className='text-gray-400'>Cart</h1>
                             <span className="badge badge-xs  bg-[#29A56C] indicator-item text-[#FFFFFF]">2</span>
                         </div>
@@ -91,7 +91,7 @@ const Header = () => {
                             <div className="w-5 rounded-full flex gap-1 ">
                                 <img
                                     alt="Tailwind CSS Navbar component"
-                                    src="src/assets/icon-user.png" />
+                                    src="/assets/icon-user.png" />
                                 <h1 className='text-gray-400'>Account</h1>
                             </div>
                             <div>

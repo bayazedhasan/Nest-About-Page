@@ -8,23 +8,23 @@ const Footer = () => {
             <div className='flex flex-wrap gap-20 justify-between pt-15 px-6 container mx-auto'>
                 <div className='grid gap-4'>
                     <div className='pb-1'>
-                        <img src="/src/assets/logo.png" alt="" />
+                        <img src="/assets/logo.png" alt="" />
                     </div>
                     <p className='font-semibold text-md text-[#253D4E]'>Awesome grocery store website template</p>
                     <div className='flex items-center gap-2'>
-                        <img src="/src/assets/icon-location.png" alt="" />
+                        <img src="/assets/icon-location.png" alt="" />
                         <p className='text-sm font-medium text-[#253D4E]'><span className='font-bold text-[#253D4E]'>Address:</span> 5171 W Campbell Ave <br />undefined Kent, Utah 53127 United States</p>
                     </div>
                     <div className='flex items-center gap-2'>
-                        <img src="/src/assets/icon-contact.png" alt="" />
+                        <img src="/assets/icon-contact.png" alt="" />
                         <p className='text-sm font-medium text-[#253D4E] '><span className='font-bold text-md text-[#253D4E]'>Call Us:</span>(+91) - 540-025-124553</p>
                     </div>
                     <div className='flex items-center gap-2'>
-                        <img src="/src/assets/icon-email-2.png" alt="" />
+                        <img src="/assets/icon-email-2.png" alt="" />
                         <p className='text-sm font-medium text-[#253D4E]'><span className='font-bold text-md text-[#253D4E]'>Email:</span>Bayazed@gmail.com</p>
                     </div>
                     <div className='flex items-center gap-2'>
-                        <img src="/src/assets/icon-clock.png" alt="" />
+                        <img src="/assets/icon-clock.png" alt="" />
                         <p className='text-sm font-medium text-[#253D4E]'><span className='font-bold text-md text-[#253D4E]'>Hours:</span>10:00 - 18:00, Mon - Sat</p>
                     </div>
                 </div>
@@ -76,12 +76,12 @@ const Footer = () => {
                     <h1 className='font-bold text-2xl text-[#253D4E] pb-4'>Install App</h1>
                     <p className='text-md font-semibold text-[#253D4E] pb-6'>From App Store or Google Play</p>
                     <div className='flex gap-2 w-40'>
-                        <img src="/src/assets/app-store.jpg" alt="" />
-                        <img src="/src/assets/google-play.jpg" alt="" />
+                        <img src="/assets/app-store.jpg" alt="" />
+                        <img src="/assets/google-play.jpg" alt="" />
                     </div>
                     <p className='text-md font-semibold text-[#253D4E] pt-8'>Secured Payment Gateways</p>
                     <div className='pt-4'>
-                        <img src="/src/assets/payment-method.png" alt="" />
+                        <img src="/assets/payment-method.png" alt="" />
                     </div>
 
                 </div>

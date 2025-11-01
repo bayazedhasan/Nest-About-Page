@@ -6,15 +6,15 @@ import { Navigation } from "swiper/modules";
 
 const ImageCarousel = () => {
   const images = [
-    "src/assets/about-2.png",
-    "/src/assets/about-3.png",
-    "/src/assets/about-4.png",
-    "/src/assets/about-2.png",
-    "/src/assets/about-4.png",
-    "/src/assets/about-3.png",
-    "/src/assets/about-4.png",
-    "/src/assets/about-3.png",
-    "/src/assets/about-4.png",
+    "/assets/about-2.png",
+    "/assets/about-3.png",
+    "/assets/about-4.png",
+    "/assets/about-2.png",
+    "/assets/about-4.png",
+    "/assets/about-3.png",
+    "/assets/about-4.png",
+    "/assets/about-3.png",
+    "/assets/about-4.png",
   ];
 
 

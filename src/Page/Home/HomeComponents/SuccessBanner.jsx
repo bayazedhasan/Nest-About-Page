@@ -91,7 +91,7 @@ export default function BannerCounters({
         {/* Background image */}
         <div
           className="absolute inset-0 bg-cover bg-center bg-no-repeat rounded-xl"
-          style={{ backgroundImage: "url('/src/assets/about-9.png')" }}
+          style={{ backgroundImage: "url('/assets/about-9.png')" }}
         ></div>
 
         {/* Halka green overlay */}

@@ -12,7 +12,7 @@ const ThirdBanner = () => {
         <div className='mt-[-60px] pb-30'>
             <div className='flex flex-col justify-center items-center gap-3 container mx-auto px-42 pt-15'>
                 <h1 className='text-[#253D4E] text-5xl font-bold'>Our Team</h1>
-                <img src="/src/assets/wave.png" alt="" />
+                <img src="/assets/wave.png" alt="" />
             </div>
 
             <div className=' flex gap-10 container mx-auto px-42 pt-10'>
@@ -33,7 +33,7 @@ const ThirdBanner = () => {
                     </div>
                 </div>
                 <div className="relative">
-                    <img className="rounded-xl w-200" src="src/assets/about-6.png" alt="" />
+                    <img className="rounded-xl w-200" src="/assets/about-6.png" alt="" />
 
                     <div className="absolute flex flex-col items-center gap-2 top-72 left-10 bg-white bg-opacity-80 px-18 py-8 rounded-lg shadow-xl transition-transform hover:scale-110">
                         <h2 className="text-xl font-bold text-center">Dilan Specter</h2>
@@ -48,7 +48,7 @@ const ThirdBanner = () => {
                     </div>
                 </div>
                 <div className='relative'>
-                    <img className='rounded-xl w-200' src="src/assets/about-8.png" alt="" />
+                    <img className='rounded-xl w-200' src="/assets/about-8.png" alt="" />
                     <div className="absolute flex flex-col items-center gap-2 top-72 left-10 bg-white bg-opacity-80 px-18 py-8 rounded-lg shadow-xl 
                   transition-transform hover:scale-110">
                         <h2 className="text-xl font-bold text-center">Dilan Specter</h2>

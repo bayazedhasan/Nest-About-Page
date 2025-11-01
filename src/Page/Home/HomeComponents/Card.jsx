@@ -5,7 +5,7 @@ const Card = ({ carts }) => {
         <>
             <div className='flex flex-col justify-center items-center gap-3 container mx-auto px-42 pt-15'>
                 <h1 className='text-[#253D4E] text-5xl font-bold'>What We Provide?</h1>
-                <img src="/src/assets/wave.png" alt="" />
+                <img src="/assets/wave.png" alt="" />
             </div>
 
             <div className='grid grid-cols-3 justify-center gap-10 container mx-auto px-42 py-10'>
