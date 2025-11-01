@@ -9,7 +9,8 @@ const FourthBanner = () => {
         });
     };
     return (
-        <div className=" flex justify-between items-center container mx-auto px-24 mt-10 inset-0 bg-cover bg-center bg-no-repeat rounded-xl" style={{ backgroundImage: "url('src/assets/banner-10.png')" }}>
+        <div className='inset-0 bg-cover bg-center bg-no-repeat rounded-xl mx-6 ' style={{ backgroundImage: "url('src/assets/banner-10.png')" }}>
+            <div className=" flex justify-between items-center container mx-auto px-24 mt-10 " >
             <div>
                 <div>
                     <h1 className='text-[#253D4E] text-4xl font-bold w-140 pb-5'>Stay home & get your daily
@@ -48,6 +49,7 @@ const FourthBanner = () => {
             <div>
                 <img className='w-130' src="/src/assets/banner-13.png" alt="" />
             </div>
+        </div>
         </div>
     );
 };

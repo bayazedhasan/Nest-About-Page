@@ -50,7 +50,7 @@ const Header = () => {
                 </div>
             </div>
 
-            <div className='flex gap-18 cursor-pointer'>
+            <div className='flex gap-20 cursor-pointer'>
                 <div className="">
                     <div className="w-5 indicator flex gap-1 ">
                         <img src="src/assets/icon-compare.png" alt="" />

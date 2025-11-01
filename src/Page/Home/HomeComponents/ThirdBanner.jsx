@@ -35,7 +35,7 @@ const ThirdBanner = () => {
                 <div className="relative">
                     <img className="rounded-xl w-200" src="src/assets/about-6.png" alt="" />
 
-                    <div className="absolute flex flex-col items-center gap-2 top-72 left-10 bg-white bg-opacity-80 px-18 py-8 rounded-lg shadow-xl">
+                    <div className="absolute flex flex-col items-center gap-2 top-72 left-10 bg-white bg-opacity-80 px-18 py-8 rounded-lg shadow-xl transition-transform hover:scale-110">
                         <h2 className="text-xl font-bold text-center">Dilan Specter</h2>
                         <p className="text-gray-700">Head Engineer</p>
 
@@ -50,7 +50,7 @@ const ThirdBanner = () => {
                 <div className='relative'>
                     <img className='rounded-xl w-200' src="src/assets/about-8.png" alt="" />
                     <div className="absolute flex flex-col items-center gap-2 top-72 left-10 bg-white bg-opacity-80 px-18 py-8 rounded-lg shadow-xl 
-                  transform transition-all duration-400 group-hover:-translate-y-3 group-hover:shadow-2xl">
+                  transition-transform hover:scale-110">
                         <h2 className="text-xl font-bold text-center">Dilan Specter</h2>
                         <p className="text-gray-700">Head Engineer</p>
                         <div className='flex justify-center gap-3'>

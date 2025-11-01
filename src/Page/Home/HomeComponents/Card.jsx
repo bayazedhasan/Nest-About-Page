@@ -17,7 +17,7 @@ const Card = ({ carts }) => {
                                     <img
                                         src={cart.img}
                                         alt={cart.title || "Image"}
-                                        className="rounded-xl w-30 object-cover"
+                                        className="rounded-xl w-30 object-cover transition-transform hover:scale-110"
                                     />
                                 </figure>
                                 <div className="card-body items-center text-center">
